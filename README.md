@@ -38,4 +38,4 @@ __XopsAutoLauncher.ini__ に
 * そーすコードつきなので煮るなり焼くなりしてください。ライセンスはWTFPL(パブリックドメイン)です
 * 本当は常駐&GUIでサーバリストを表示したかったけどやるきでません
 * マイニングスクリプト付きバージョンリリース予定! (GPUを喰いつぶすのでXOPSはプレイできません)
-* お問い合わせは [@n1t3n00k](https://twitter.com/n1t3n00k) まで
+* お問い合わせは [@nekotion](https://twitter.com/nekotion) まで
